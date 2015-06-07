@@ -2,6 +2,6 @@
 
 This is the pinteresting sample application for [*One Month Rails*] (http://onemonthrails.com).
 
-This is also the first step in trying to push myself do something I've never done before. With me, also, losing interest with something I've done for almost 8 years, I really need a boost. I sincerely hope this opens the doors for me to explore programming and hopefully be something that I will be very proud of and appreciate for the rest of my life.
+This is also an attempt in trying to push myself do something I've never done before. With me as well losing interest in the career that I grew up on – spending  almost eight years doing it – I really need a boost. I sincerely hope this opens the doors for me to explore programming and hopefully be something that I will be very proud of and appreciate for the rest of my life.
 
-by Aeron Bacos
+by Aeron
